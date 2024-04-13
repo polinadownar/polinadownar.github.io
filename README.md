@@ -1,13 +1,10 @@
 
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# h1 Polina Tchistiakova
+## h2 SDET
+### h3 Never Stop Learning
 
 
-## Horizontal Rules
+## General Information
 
 ___
 
