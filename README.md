@@ -1,7 +1,7 @@
 
-# h1 Polina Tchistiakova
-## h2 SDET
-### h3 Never Stop Learning
+#  Polina Tchistiakova
+##  SDET
+###  Never Stop Learning
 
 
 ## General Information
